@@ -82,3 +82,26 @@ Tarjeta de débito     3237
 Efectivo              3209
 Regiones únicas: 5
 ```
+
+### Archivo clientes.csv
+Al analizar el 'ID del cliente' se observa la integridad del archivo ya que no tiene registros duplicados. Hay 3 categorías 'Género del cliente'.
+
+```Shell
+Clientes únicos: True
+Categorías Genero: Género del cliente
+Masculino        686
+Femenino         676
+No especifica    625
+```
+
+También se conocen ciertos datos útiles para la limpieza y transformación posterior, sabiendo el rango de edades de los clientes registrados.
+
+Media de Edad del cliente: 38.6260
+Edad mínima: 18.00
+Edad máxima: 60.00
+
+## Conclusiones
+
+El análisis exploratorio mostró que el archivo principal tiene 20,000 registros con integridad en la clave primaria y con datos faltantes en 2 de las 12 columnas que contiene, estos datos corresponden a los datos del cliente, esta falta de datos puede ser solucionada con la integración del archivo secundario el cual se puede relacionar por su clave primaria la cual es completamente integra mostrando que no hay clientes duplicados.
+
+También se identificaron incongruencias en los tipos de datos de fecha y valores monetarios lo que sugiere una transformación posterior para asegurar la validez de cálculos y análisis. La relación entre los clientes únicos del archivo principal y el total de registros en clientes.csv confirma la referencia entre ambos conjuntos de datos.
