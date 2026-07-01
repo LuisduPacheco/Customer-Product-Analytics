@@ -1,5 +1,17 @@
 # Análisis de Clientes y Ventas
 
+En este proyecto se utilizaron diferentes tecnologías como:
+
+- Google Collab
+- Python y Pandas
+- PostgreSQL
+- Power BI 
+- Excalidraw para diagramas
+
+## Workflow del Proyecto
+
+![Workflow](./docs/images/04_Workflow.png)
+
 ## Problema a resolver
 
 ![Problema](./docs/images/01_ProblemaAnalisis.png)
@@ -71,4 +83,4 @@ Esto permite consultar información, insertar, eliminar y actualizar datos, brin
 Diagrama entidad relación: 
 
 
-![Diagrama ER](./docs/images/03_DiagramaEntidadRelación.png)
+![Diagrama ER](./docs/images/03_DiagramaEntidadRelacion.png)
