@@ -1,0 +1,1988 @@
+ID del cliente,Género del cliente,Edad del cliente
+1000,Masculino,37
+1001,Femenino,23
+1002,No especifica,29
+1003,Femenino,50
+1004,Femenino,49
+1005,Masculino,54
+1006,Masculino,19
+1007,Masculino,31
+1008,Masculino,29
+1009,Masculino,31
+1010,Masculino,53
+1011,Masculino,21
+1012,Masculino,50
+1013,Masculino,55
+1014,No especifica,43
+1015,No especifica,55
+1016,Femenino,20
+1017,Femenino,49
+1018,Femenino,37
+1019,Femenino,35
+1020,Femenino,22
+1021,Femenino,45
+1022,Femenino,49
+1023,Femenino,59
+1024,Femenino,23
+1025,Femenino,23
+1026,Femenino,50
+1027,Femenino,21
+1028,Femenino,50
+1029,No especifica,35
+1030,No especifica,48
+1031,No especifica,26
+1032,No especifica,27
+1033,Femenino,58
+1034,Femenino,32
+1035,Femenino,19
+1036,Femenino,40
+1037,No especifica,22
+1038,No especifica,25
+1039,No especifica,19
+1040,Femenino,56
+1041,Femenino,39
+1042,Femenino,45
+1043,No especifica,52
+1044,No especifica,27
+1045,No especifica,42
+1046,No especifica,47
+1047,No especifica,57
+1048,Femenino,22
+1049,Femenino,21
+1050,Femenino,41
+1051,Femenino,26
+1052,Femenino,58
+1053,Femenino,20
+1054,Femenino,29
+1055,Femenino,50
+1056,Femenino,39
+1057,No especifica,51
+1058,No especifica,59
+1059,No especifica,43
+1060,No especifica,41
+1061,Femenino,38
+1062,Femenino,20
+1063,Femenino,48
+1064,No especifica,59
+1065,No especifica,53
+1066,No especifica,42
+1067,No especifica,27
+1068,No especifica,55
+1069,No especifica,55
+1070,Femenino,55
+1071,Femenino,35
+1072,Femenino,49
+1073,Masculino,60
+1074,No especifica,50
+1075,No especifica,48
+1076,Masculino,18
+1077,Masculino,19
+1078,No especifica,19
+1079,Masculino,32
+1080,Masculino,38
+1081,Femenino,33
+1082,Femenino,54
+1083,Masculino,29
+1084,Masculino,56
+1085,Masculino,44
+1086,Masculino,44
+1087,No especifica,18
+1088,Femenino,47
+1089,No especifica,57
+1090,Femenino,42
+1091,No especifica,19
+1092,Femenino,20
+1093,No especifica,36
+1094,Masculino,38
+1095,Femenino,38
+1096,Masculino,36
+1097,Masculino,59
+1098,Masculino,25
+1099,No especifica,51
+1100,Femenino,31
+1101,Femenino,26
+1102,No especifica,34
+1103,No especifica,56
+1104,No especifica,40
+1105,Femenino,27
+1106,No especifica,49
+1107,Femenino,32
+1108,No especifica,22
+1109,Femenino,54
+1110,Femenino,52
+1111,Femenino,47
+1112,Masculino,34
+1113,No especifica,46
+1114,Masculino,50
+1115,Femenino,51
+1116,No especifica,22
+1117,Masculino,21
+1118,Femenino,60
+1119,Masculino,37
+1120,Femenino,58
+1121,Masculino,35
+1122,No especifica,33
+1123,Masculino,35
+1124,No especifica,24
+1125,Masculino,40
+1126,Masculino,49
+1127,No especifica,30
+1128,Masculino,19
+1129,Masculino,44
+1130,Masculino,44
+1131,Femenino,59
+1132,Masculino,31
+1133,No especifica,44
+1134,No especifica,27
+1135,Masculino,42
+1136,No especifica,19
+1137,Femenino,53
+1138,Masculino,18
+1139,Masculino,32
+1140,Masculino,48
+1141,Masculino,43
+1142,No especifica,58
+1143,No especifica,44
+1144,No especifica,30
+1145,Masculino,41
+1146,No especifica,29
+1147,No especifica,30
+1148,Masculino,34
+1149,No especifica,41
+1150,Masculino,22
+1151,Femenino,59
+1152,Masculino,53
+1153,Femenino,52
+1154,Femenino,37
+1156,No especifica,31
+1157,Femenino,30
+1158,Masculino,25
+1159,Masculino,45
+1160,Masculino,41
+1161,Femenino,33
+1162,Femenino,45
+1163,No especifica,18
+1164,No especifica,31
+1165,Femenino,31
+1166,No especifica,38
+1167,Femenino,52
+1168,Femenino,23
+1169,Masculino,59
+1170,No especifica,53
+1171,Masculino,32
+1172,Masculino,31
+1173,Femenino,42
+1174,Femenino,26
+1175,No especifica,18
+1176,Femenino,50
+1177,No especifica,24
+1178,No especifica,50
+1179,No especifica,21
+1180,Femenino,46
+1181,No especifica,48
+1182,No especifica,57
+1183,Femenino,32
+1184,Masculino,58
+1185,No especifica,59
+1186,Masculino,30
+1187,Femenino,29
+1188,Femenino,22
+1189,No especifica,40
+1190,Masculino,26
+1191,No especifica,42
+1192,Masculino,24
+1193,No especifica,56
+1194,Femenino,53
+1195,Femenino,29
+1196,Femenino,31
+1197,No especifica,37
+1198,No especifica,30
+1199,Masculino,38
+1200,Masculino,52
+1201,Femenino,36
+1202,Femenino,60
+1203,Femenino,46
+1204,Masculino,18
+1205,Femenino,24
+1206,Masculino,46
+1207,Femenino,39
+1208,No especifica,43
+1209,Femenino,36
+1210,No especifica,50
+1211,Masculino,47
+1212,Masculino,33
+1213,Masculino,59
+1214,No especifica,20
+1215,No especifica,59
+1216,Femenino,34
+1217,Masculino,46
+1218,Masculino,41
+1219,Femenino,44
+1220,Masculino,51
+1221,Masculino,57
+1222,Masculino,20
+1223,No especifica,33
+1224,No especifica,19
+1225,No especifica,40
+1226,No especifica,53
+1227,Femenino,32
+1228,No especifica,46
+1229,Femenino,56
+1230,Femenino,26
+1231,Masculino,43
+1232,No especifica,29
+1233,No especifica,33
+1234,No especifica,44
+1235,Masculino,30
+1236,Masculino,24
+1237,No especifica,50
+1238,Femenino,26
+1239,Masculino,39
+1240,Masculino,32
+1241,Masculino,26
+1242,Masculino,27
+1243,Masculino,45
+1244,Masculino,28
+1245,No especifica,42
+1246,Femenino,27
+1247,No especifica,56
+1248,Masculino,30
+1249,Masculino,49
+1250,Masculino,45
+1251,Femenino,27
+1252,Masculino,24
+1253,Masculino,41
+1254,Masculino,55
+1255,Femenino,24
+1256,Femenino,26
+1257,No especifica,26
+1258,No especifica,44
+1259,Masculino,53
+1260,Masculino,30
+1261,Femenino,41
+1262,Femenino,54
+1263,Femenino,28
+1264,No especifica,45
+1265,Masculino,26
+1266,Femenino,28
+1267,Masculino,44
+1268,No especifica,48
+1269,Masculino,42
+1270,Femenino,34
+1271,Masculino,21
+1272,Femenino,42
+1273,No especifica,37
+1274,Masculino,35
+1275,Masculino,60
+1276,Masculino,30
+1277,Masculino,38
+1278,Femenino,26
+1279,Femenino,42
+1280,Masculino,44
+1281,Masculino,38
+1282,Femenino,41
+1283,No especifica,20
+1284,Masculino,19
+1285,Femenino,22
+1286,Masculino,48
+1287,Masculino,20
+1288,No especifica,25
+1289,Femenino,26
+1290,No especifica,49
+1291,No especifica,37
+1292,No especifica,57
+1293,Masculino,22
+1294,Masculino,55
+1295,Femenino,50
+1296,Masculino,25
+1297,Femenino,49
+1298,No especifica,49
+1299,No especifica,52
+1300,Masculino,24
+1301,No especifica,57
+1302,No especifica,58
+1303,Masculino,56
+1304,Masculino,26
+1305,Femenino,40
+1306,No especifica,26
+1307,Masculino,39
+1308,No especifica,41
+1309,Femenino,43
+1310,Masculino,21
+1311,Femenino,43
+1312,No especifica,56
+1313,Femenino,44
+1314,No especifica,30
+1315,Masculino,18
+1316,No especifica,23
+1317,Femenino,32
+1318,Femenino,60
+1319,Femenino,26
+1320,Masculino,40
+1321,No especifica,31
+1322,No especifica,47
+1323,Femenino,26
+1324,Femenino,36
+1325,Femenino,57
+1326,No especifica,55
+1327,Femenino,31
+1328,No especifica,39
+1329,No especifica,39
+1330,Femenino,36
+1331,Femenino,24
+1332,No especifica,54
+1333,No especifica,40
+1334,Femenino,57
+1335,No especifica,46
+1336,Masculino,33
+1337,Masculino,55
+1338,Masculino,43
+1339,No especifica,46
+1340,Femenino,34
+1341,Femenino,51
+1342,Masculino,52
+1343,No especifica,29
+1344,Masculino,57
+1345,Femenino,33
+1346,Masculino,55
+1347,Femenino,46
+1348,No especifica,50
+1349,Masculino,25
+1350,Femenino,28
+1351,Masculino,26
+1352,No especifica,33
+1353,Femenino,44
+1354,Femenino,47
+1355,Masculino,32
+1357,Femenino,43
+1358,Femenino,34
+1359,Masculino,58
+1360,No especifica,32
+1361,Masculino,36
+1362,Masculino,59
+1363,Femenino,45
+1364,No especifica,30
+1365,No especifica,33
+1366,Femenino,30
+1367,Masculino,38
+1368,No especifica,28
+1369,Femenino,34
+1370,No especifica,28
+1371,Femenino,38
+1372,Femenino,50
+1373,Femenino,29
+1374,No especifica,60
+1375,No especifica,21
+1376,No especifica,33
+1377,Masculino,37
+1378,No especifica,56
+1379,Masculino,40
+1380,Masculino,48
+1381,No especifica,36
+1382,No especifica,46
+1383,Masculino,31
+1384,No especifica,23
+1385,No especifica,29
+1386,Femenino,25
+1387,No especifica,26
+1388,Femenino,27
+1389,Masculino,56
+1390,Masculino,43
+1391,No especifica,44
+1392,Masculino,43
+1393,No especifica,26
+1394,No especifica,50
+1395,No especifica,56
+1396,Femenino,58
+1397,No especifica,26
+1398,Femenino,31
+1399,Femenino,35
+1400,Femenino,42
+1401,Femenino,51
+1402,Femenino,33
+1403,Masculino,50
+1404,Masculino,58
+1405,Masculino,26
+1406,Femenino,45
+1407,Femenino,39
+1408,Femenino,34
+1409,Femenino,42
+1410,Femenino,51
+1411,No especifica,19
+1412,Masculino,40
+1413,Masculino,30
+1414,No especifica,25
+1415,Masculino,58
+1416,Femenino,21
+1417,Masculino,55
+1418,Masculino,30
+1419,Femenino,25
+1420,Masculino,41
+1421,Femenino,45
+1422,No especifica,60
+1423,No especifica,31
+1424,No especifica,43
+1425,Masculino,31
+1426,No especifica,42
+1427,Femenino,29
+1428,Masculino,46
+1429,Masculino,48
+1430,Masculino,50
+1431,Masculino,22
+1432,Femenino,59
+1433,Masculino,41
+1434,Masculino,58
+1435,Femenino,60
+1436,Femenino,19
+1437,No especifica,45
+1438,Masculino,31
+1439,Femenino,27
+1440,Femenino,43
+1441,No especifica,27
+1442,No especifica,29
+1443,No especifica,33
+1444,No especifica,29
+1445,No especifica,26
+1446,Masculino,35
+1447,Femenino,48
+1448,Femenino,33
+1449,Masculino,58
+1450,Masculino,21
+1451,Masculino,47
+1452,Masculino,28
+1453,Femenino,43
+1454,Masculino,37
+1455,Femenino,59
+1456,Femenino,26
+1457,Masculino,32
+1458,Femenino,33
+1459,Masculino,38
+1460,Femenino,20
+1461,Masculino,43
+1462,No especifica,51
+1463,Femenino,33
+1464,Masculino,40
+1465,Femenino,53
+1466,Masculino,30
+1467,No especifica,42
+1468,No especifica,21
+1469,Masculino,49
+1470,Femenino,38
+1471,Masculino,34
+1472,Femenino,49
+1473,No especifica,20
+1474,No especifica,60
+1475,No especifica,25
+1476,Masculino,21
+1477,Femenino,60
+1478,Masculino,42
+1479,No especifica,54
+1480,Masculino,39
+1481,Femenino,25
+1482,Masculino,43
+1483,Femenino,23
+1484,Femenino,43
+1485,No especifica,30
+1486,No especifica,39
+1487,Femenino,48
+1488,No especifica,29
+1489,Masculino,37
+1490,Femenino,57
+1491,Femenino,27
+1492,No especifica,55
+1493,Femenino,42
+1494,Masculino,43
+1495,No especifica,56
+1496,Femenino,50
+1497,Masculino,34
+1498,Femenino,36
+1499,Masculino,55
+1500,No especifica,23
+1501,No especifica,25
+1502,No especifica,33
+1503,No especifica,26
+1504,No especifica,52
+1505,No especifica,53
+1506,Masculino,28
+1507,No especifica,29
+1508,No especifica,34
+1509,No especifica,40
+1510,No especifica,52
+1511,Femenino,31
+1512,Femenino,32
+1513,Masculino,34
+1514,No especifica,41
+1515,Femenino,26
+1516,No especifica,23
+1517,No especifica,55
+1518,Femenino,31
+1519,Femenino,20
+1520,Masculino,21
+1521,Masculino,27
+1522,Masculino,18
+1523,Femenino,56
+1524,Femenino,33
+1525,Masculino,23
+1526,Femenino,25
+1527,No especifica,18
+1528,No especifica,20
+1529,Femenino,41
+1530,Femenino,56
+1531,No especifica,35
+1532,Masculino,49
+1533,Femenino,20
+1534,No especifica,44
+1535,Femenino,44
+1536,Femenino,33
+1537,Masculino,43
+1538,Masculino,58
+1539,Femenino,30
+1540,Femenino,36
+1541,Masculino,36
+1542,Femenino,43
+1543,Femenino,55
+1544,No especifica,19
+1545,Masculino,20
+1546,Masculino,43
+1547,Masculino,19
+1548,Masculino,43
+1549,Femenino,35
+1550,Masculino,42
+1551,No especifica,44
+1552,Femenino,57
+1553,Masculino,38
+1554,Masculino,28
+1555,Masculino,52
+1556,Masculino,33
+1557,Masculino,35
+1558,Femenino,28
+1559,Masculino,36
+1560,No especifica,42
+1561,Masculino,31
+1562,Femenino,39
+1563,Masculino,29
+1564,Masculino,51
+1565,Masculino,46
+1566,Femenino,22
+1567,Femenino,44
+1568,No especifica,51
+1569,Femenino,26
+1570,No especifica,59
+1571,Femenino,45
+1572,Masculino,41
+1573,Masculino,18
+1574,No especifica,47
+1575,Femenino,50
+1576,Femenino,26
+1577,Masculino,24
+1578,No especifica,35
+1579,No especifica,27
+1580,Masculino,49
+1581,No especifica,35
+1582,No especifica,47
+1583,No especifica,46
+1584,Femenino,43
+1585,Femenino,60
+1586,Masculino,34
+1587,Femenino,30
+1588,No especifica,39
+1589,Femenino,29
+1590,Femenino,34
+1591,No especifica,23
+1592,No especifica,30
+1593,Femenino,44
+1594,Femenino,37
+1595,Masculino,24
+1596,No especifica,50
+1597,Femenino,33
+1598,No especifica,23
+1599,Masculino,49
+1600,No especifica,41
+1601,No especifica,32
+1602,Femenino,23
+1603,Femenino,19
+1604,No especifica,28
+1605,No especifica,29
+1606,No especifica,53
+1607,No especifica,24
+1608,No especifica,56
+1609,Masculino,34
+1610,No especifica,32
+1611,No especifica,27
+1612,No especifica,41
+1613,Femenino,20
+1614,Masculino,48
+1615,Masculino,22
+1616,No especifica,56
+1617,No especifica,43
+1618,Femenino,55
+1619,No especifica,53
+1620,Femenino,40
+1621,Masculino,35
+1622,No especifica,44
+1623,Masculino,42
+1624,Femenino,41
+1625,Masculino,41
+1626,Femenino,28
+1627,Femenino,60
+1628,Masculino,21
+1629,Masculino,52
+1630,Femenino,56
+1631,No especifica,53
+1632,Femenino,50
+1633,Masculino,46
+1634,No especifica,25
+1635,No especifica,30
+1636,No especifica,59
+1637,Masculino,58
+1638,No especifica,45
+1639,Masculino,18
+1640,No especifica,36
+1641,Femenino,53
+1642,Masculino,49
+1643,No especifica,18
+1644,Femenino,46
+1645,Femenino,34
+1646,Femenino,55
+1647,Masculino,45
+1648,Masculino,45
+1649,Masculino,57
+1650,Femenino,22
+1651,Femenino,26
+1652,Masculino,56
+1653,No especifica,58
+1654,No especifica,52
+1655,No especifica,60
+1656,No especifica,38
+1657,No especifica,22
+1658,No especifica,50
+1659,Masculino,20
+1660,No especifica,24
+1661,Femenino,39
+1662,Masculino,29
+1663,Femenino,36
+1664,No especifica,35
+1665,No especifica,39
+1666,Masculino,41
+1667,Femenino,44
+1668,Femenino,22
+1669,Masculino,23
+1670,Masculino,42
+1671,No especifica,47
+1672,Masculino,37
+1673,No especifica,34
+1674,Masculino,59
+1675,Masculino,59
+1676,Masculino,46
+1677,Femenino,38
+1678,Masculino,57
+1679,No especifica,44
+1680,Masculino,30
+1681,Masculino,58
+1682,Masculino,53
+1683,Masculino,29
+1684,No especifica,35
+1685,Masculino,21
+1686,No especifica,28
+1687,Femenino,35
+1688,No especifica,58
+1689,No especifica,41
+1690,Masculino,59
+1691,Masculino,50
+1692,Femenino,21
+1693,Femenino,56
+1694,No especifica,32
+1695,Femenino,59
+1696,Masculino,33
+1697,Femenino,44
+1698,Femenino,28
+1699,No especifica,35
+1700,Masculino,25
+1701,No especifica,47
+1702,No especifica,25
+1703,Masculino,37
+1704,Femenino,58
+1705,Masculino,55
+1706,Masculino,48
+1707,Masculino,59
+1708,Masculino,47
+1709,Masculino,56
+1710,Femenino,25
+1711,Masculino,29
+1712,Masculino,36
+1713,No especifica,22
+1714,No especifica,31
+1715,Femenino,23
+1716,No especifica,54
+1717,Femenino,31
+1718,Femenino,39
+1719,Masculino,41
+1720,Masculino,41
+1721,Femenino,31
+1722,Femenino,26
+1723,Femenino,59
+1724,Femenino,21
+1725,No especifica,26
+1726,Masculino,42
+1727,Masculino,47
+1728,Femenino,45
+1729,Masculino,43
+1730,Masculino,35
+1731,Masculino,40
+1732,Femenino,32
+1733,Masculino,58
+1734,Femenino,54
+1735,Femenino,28
+1736,No especifica,40
+1737,Masculino,18
+1738,Femenino,50
+1739,Masculino,22
+1740,Masculino,42
+1741,Masculino,36
+1742,No especifica,39
+1743,Femenino,47
+1744,Femenino,51
+1745,Femenino,54
+1746,No especifica,22
+1747,Masculino,59
+1748,Femenino,36
+1749,Masculino,58
+1750,Femenino,56
+1751,Femenino,26
+1752,Masculino,27
+1753,Masculino,54
+1754,No especifica,30
+1755,Femenino,39
+1756,No especifica,27
+1757,Femenino,30
+1758,No especifica,55
+1759,Masculino,56
+1760,Masculino,23
+1761,Femenino,24
+1762,No especifica,21
+1763,Masculino,23
+1764,No especifica,42
+1765,Femenino,42
+1766,No especifica,22
+1767,Masculino,27
+1768,Masculino,30
+1769,Femenino,53
+1770,Femenino,43
+1771,Femenino,53
+1772,Masculino,31
+1773,Femenino,23
+1774,Masculino,56
+1775,Femenino,56
+1776,Masculino,24
+1777,No especifica,39
+1778,No especifica,55
+1779,No especifica,53
+1780,No especifica,21
+1781,Masculino,22
+1782,Femenino,20
+1783,No especifica,35
+1784,Femenino,47
+1785,Masculino,41
+1786,Femenino,18
+1788,Masculino,52
+1789,Masculino,54
+1790,No especifica,45
+1791,Masculino,60
+1792,No especifica,38
+1793,No especifica,21
+1794,Femenino,43
+1795,Femenino,59
+1796,No especifica,51
+1797,Femenino,52
+1798,Femenino,40
+1799,Masculino,54
+1800,Femenino,41
+1801,Femenino,18
+1802,No especifica,54
+1803,Masculino,32
+1804,No especifica,28
+1805,No especifica,19
+1806,No especifica,39
+1807,Masculino,38
+1808,No especifica,58
+1809,Masculino,24
+1810,No especifica,32
+1811,Masculino,56
+1812,Masculino,25
+1813,Femenino,46
+1814,No especifica,38
+1815,Femenino,58
+1816,No especifica,52
+1817,No especifica,48
+1818,No especifica,28
+1819,Femenino,30
+1820,No especifica,37
+1821,No especifica,19
+1822,Femenino,58
+1823,Femenino,52
+1824,Femenino,34
+1825,No especifica,44
+1826,No especifica,29
+1827,No especifica,27
+1828,No especifica,52
+1829,No especifica,27
+1830,Femenino,52
+1831,Masculino,24
+1832,Masculino,18
+1833,Femenino,45
+1834,Masculino,45
+1835,Femenino,44
+1836,Femenino,39
+1837,Masculino,20
+1838,Femenino,30
+1839,No especifica,51
+1840,No especifica,32
+1841,No especifica,50
+1842,No especifica,23
+1843,Masculino,18
+1844,Femenino,33
+1845,Femenino,26
+1846,No especifica,54
+1847,Masculino,20
+1848,Femenino,33
+1849,Masculino,21
+1850,Masculino,58
+1851,Masculino,31
+1852,Femenino,53
+1853,Femenino,36
+1854,Femenino,50
+1855,No especifica,54
+1856,No especifica,31
+1857,Masculino,22
+1858,No especifica,46
+1859,Masculino,51
+1860,Masculino,30
+1861,No especifica,49
+1862,Masculino,40
+1863,No especifica,40
+1864,Masculino,57
+1865,Masculino,46
+1866,No especifica,32
+1867,Masculino,27
+1868,Femenino,51
+1869,Masculino,18
+1870,Femenino,45
+1871,Masculino,45
+1872,Femenino,38
+1873,Femenino,51
+1874,Masculino,47
+1876,Masculino,45
+1877,No especifica,28
+1878,No especifica,55
+1879,Femenino,42
+1880,Femenino,24
+1881,No especifica,19
+1882,Masculino,36
+1883,No especifica,40
+1884,Masculino,27
+1885,Femenino,25
+1886,Femenino,23
+1887,No especifica,21
+1888,Femenino,53
+1889,Masculino,60
+1890,Masculino,56
+1891,Femenino,25
+1892,Femenino,33
+1893,Femenino,55
+1894,No especifica,43
+1895,No especifica,55
+1896,No especifica,19
+1897,Masculino,35
+1898,Masculino,33
+1899,Femenino,23
+1900,No especifica,48
+1901,Femenino,54
+1902,Femenino,30
+1903,Masculino,35
+1904,No especifica,26
+1905,Femenino,18
+1906,Femenino,57
+1907,Masculino,38
+1908,No especifica,18
+1909,Masculino,56
+1911,Femenino,54
+1912,Femenino,26
+1913,No especifica,37
+1914,Femenino,26
+1915,Femenino,38
+1916,Femenino,26
+1917,Masculino,29
+1918,No especifica,44
+1919,No especifica,56
+1920,Masculino,52
+1921,Femenino,56
+1922,Femenino,42
+1923,Masculino,54
+1924,No especifica,33
+1925,Masculino,49
+1926,Femenino,35
+1927,Masculino,31
+1928,No especifica,56
+1929,Femenino,49
+1930,Masculino,40
+1931,Femenino,56
+1932,No especifica,34
+1933,Masculino,39
+1934,No especifica,48
+1935,Masculino,59
+1936,Femenino,39
+1937,Femenino,39
+1938,No especifica,20
+1939,Masculino,52
+1940,Femenino,18
+1941,Femenino,53
+1942,No especifica,21
+1943,Masculino,51
+1944,Masculino,52
+1945,No especifica,18
+1946,Masculino,25
+1947,No especifica,41
+1948,Femenino,27
+1949,Masculino,22
+1950,No especifica,57
+1952,No especifica,46
+1953,Femenino,29
+1954,Femenino,43
+1955,Masculino,59
+1956,No especifica,38
+1957,No especifica,48
+1958,Masculino,37
+1959,Masculino,41
+1960,Masculino,30
+1961,Masculino,43
+1962,Masculino,34
+1963,Masculino,43
+1964,Masculino,48
+1965,Masculino,35
+1966,No especifica,32
+1967,Femenino,45
+1968,Masculino,51
+1969,No especifica,49
+1970,No especifica,32
+1971,Masculino,18
+1972,Femenino,30
+1973,No especifica,32
+1974,Masculino,56
+1975,Femenino,38
+1976,No especifica,35
+1977,Femenino,28
+1978,No especifica,45
+1979,Masculino,29
+1980,Femenino,60
+1981,Femenino,20
+1982,Masculino,60
+1983,No especifica,30
+1984,Masculino,23
+1985,Masculino,46
+1986,Masculino,25
+1987,Femenino,35
+1988,Masculino,51
+1989,Femenino,59
+1990,Femenino,53
+1991,Femenino,55
+1992,Masculino,22
+1993,No especifica,59
+1994,Femenino,27
+1995,No especifica,31
+1996,Femenino,22
+1997,No especifica,18
+1998,No especifica,30
+1999,Femenino,50
+2000,No especifica,29
+2001,No especifica,35
+2002,No especifica,44
+2003,No especifica,34
+2004,Masculino,40
+2005,Femenino,58
+2006,No especifica,42
+2007,Femenino,46
+2008,Femenino,36
+2009,Masculino,57
+2010,No especifica,37
+2011,Masculino,58
+2012,No especifica,42
+2013,Femenino,49
+2014,No especifica,32
+2015,Masculino,22
+2016,No especifica,33
+2017,Masculino,40
+2018,Femenino,41
+2019,Femenino,45
+2020,Femenino,34
+2021,Femenino,24
+2022,Masculino,50
+2023,Masculino,60
+2024,Masculino,46
+2025,Masculino,56
+2026,Masculino,27
+2027,No especifica,52
+2028,Femenino,45
+2029,No especifica,47
+2030,Femenino,26
+2031,Femenino,60
+2032,No especifica,20
+2033,Masculino,35
+2034,Femenino,30
+2035,No especifica,39
+2036,Masculino,38
+2037,Masculino,50
+2038,Masculino,51
+2039,No especifica,55
+2040,No especifica,23
+2041,Femenino,33
+2042,Masculino,60
+2043,Masculino,33
+2044,Masculino,32
+2045,Femenino,52
+2046,No especifica,57
+2047,No especifica,34
+2048,No especifica,28
+2049,Femenino,32
+2050,Femenino,23
+2051,Femenino,55
+2052,Femenino,38
+2053,Femenino,27
+2054,Masculino,36
+2055,Femenino,42
+2056,Masculino,24
+2057,Masculino,30
+2058,Femenino,39
+2059,Masculino,39
+2060,Femenino,47
+2061,Masculino,27
+2062,No especifica,56
+2063,Femenino,20
+2064,Masculino,32
+2065,Masculino,54
+2066,No especifica,37
+2067,Masculino,33
+2068,Femenino,31
+2069,Masculino,29
+2070,Femenino,46
+2071,Femenino,22
+2072,Masculino,40
+2073,Femenino,37
+2074,Femenino,27
+2075,Masculino,26
+2076,No especifica,43
+2077,No especifica,33
+2078,No especifica,54
+2079,Masculino,24
+2080,Femenino,48
+2081,Masculino,19
+2082,No especifica,21
+2083,Femenino,35
+2084,Masculino,18
+2085,Femenino,22
+2086,No especifica,51
+2087,Masculino,31
+2088,Masculino,60
+2089,Masculino,31
+2090,No especifica,35
+2091,No especifica,25
+2092,Masculino,50
+2093,Femenino,36
+2094,No especifica,21
+2095,No especifica,45
+2096,Femenino,45
+2097,No especifica,35
+2098,No especifica,32
+2099,Femenino,35
+2100,Femenino,54
+2101,No especifica,42
+2102,Masculino,21
+2103,No especifica,18
+2104,Masculino,20
+2105,Masculino,55
+2106,Femenino,38
+2107,Masculino,45
+2108,Femenino,34
+2109,Masculino,43
+2110,No especifica,39
+2111,No especifica,36
+2112,Femenino,47
+2113,Femenino,49
+2114,No especifica,50
+2115,Femenino,49
+2116,Femenino,41
+2117,No especifica,43
+2118,Masculino,59
+2119,Femenino,41
+2120,Femenino,22
+2121,Masculino,22
+2122,No especifica,24
+2123,No especifica,55
+2124,Masculino,29
+2125,Masculino,20
+2126,Masculino,59
+2127,No especifica,59
+2128,No especifica,57
+2129,Masculino,37
+2130,Masculino,27
+2131,No especifica,43
+2132,No especifica,29
+2133,No especifica,42
+2134,Masculino,28
+2135,Femenino,32
+2136,Masculino,23
+2137,Femenino,58
+2138,No especifica,22
+2139,Femenino,55
+2140,No especifica,60
+2141,No especifica,54
+2142,Femenino,27
+2143,No especifica,47
+2144,Femenino,49
+2145,Masculino,22
+2146,No especifica,53
+2147,Femenino,50
+2148,Masculino,58
+2149,Femenino,58
+2150,No especifica,35
+2151,No especifica,53
+2152,Femenino,27
+2153,Masculino,42
+2154,Masculino,37
+2155,No especifica,41
+2156,Masculino,59
+2157,No especifica,54
+2158,Masculino,59
+2159,No especifica,28
+2160,Femenino,59
+2161,Masculino,50
+2162,Masculino,23
+2163,Masculino,45
+2164,Masculino,53
+2165,Femenino,23
+2166,Masculino,27
+2167,Masculino,60
+2168,Femenino,52
+2169,No especifica,55
+2170,Femenino,38
+2171,Femenino,34
+2172,No especifica,41
+2173,Masculino,33
+2174,Masculino,24
+2175,Femenino,37
+2176,Femenino,25
+2177,No especifica,38
+2178,Masculino,56
+2179,Femenino,52
+2180,Masculino,53
+2181,Masculino,48
+2182,No especifica,50
+2183,Masculino,54
+2184,Masculino,57
+2185,Masculino,50
+2186,Masculino,26
+2187,Femenino,38
+2188,Femenino,18
+2189,Femenino,19
+2190,Femenino,59
+2191,No especifica,28
+2192,Masculino,19
+2193,Masculino,23
+2194,Masculino,24
+2195,Masculino,20
+2196,Femenino,26
+2197,Femenino,19
+2198,Masculino,25
+2199,No especifica,42
+2200,Femenino,27
+2202,Femenino,45
+2203,Femenino,18
+2204,Masculino,40
+2205,Masculino,25
+2206,Femenino,48
+2207,Femenino,55
+2208,Femenino,45
+2209,Masculino,32
+2210,Masculino,49
+2211,Masculino,60
+2212,Femenino,39
+2213,Femenino,30
+2214,Femenino,53
+2215,Masculino,55
+2216,Masculino,31
+2217,Femenino,26
+2218,No especifica,42
+2219,No especifica,20
+2220,Masculino,44
+2221,Femenino,56
+2222,Femenino,18
+2223,Masculino,26
+2224,Femenino,19
+2225,Masculino,58
+2226,No especifica,27
+2227,Masculino,53
+2229,Masculino,29
+2230,No especifica,36
+2231,No especifica,22
+2232,Masculino,20
+2233,Masculino,24
+2234,Masculino,60
+2235,No especifica,21
+2236,Femenino,27
+2237,Femenino,53
+2238,No especifica,53
+2239,Femenino,35
+2240,No especifica,49
+2241,No especifica,38
+2242,Masculino,56
+2243,Masculino,47
+2244,Femenino,55
+2245,Femenino,60
+2246,Femenino,26
+2247,No especifica,25
+2248,Femenino,22
+2249,No especifica,52
+2250,No especifica,21
+2251,Femenino,55
+2252,No especifica,38
+2253,No especifica,36
+2254,Femenino,19
+2255,Femenino,34
+2256,No especifica,47
+2257,Masculino,18
+2258,Masculino,26
+2259,No especifica,56
+2260,Femenino,49
+2261,Masculino,36
+2262,Femenino,54
+2263,Masculino,37
+2264,Masculino,26
+2265,Masculino,36
+2266,Femenino,18
+2267,No especifica,27
+2268,Masculino,33
+2269,Masculino,38
+2270,Masculino,21
+2271,No especifica,36
+2272,Femenino,33
+2273,Femenino,34
+2274,Masculino,42
+2275,Femenino,26
+2276,Masculino,44
+2277,No especifica,28
+2278,Femenino,34
+2279,Femenino,32
+2280,No especifica,19
+2281,Femenino,46
+2282,Masculino,42
+2283,Masculino,26
+2284,Masculino,41
+2285,Femenino,24
+2286,Masculino,36
+2287,No especifica,22
+2288,Masculino,35
+2289,Femenino,29
+2290,Masculino,45
+2291,No especifica,33
+2292,Femenino,45
+2293,No especifica,19
+2294,Femenino,48
+2295,Femenino,30
+2296,Masculino,59
+2297,Femenino,18
+2298,Femenino,21
+2299,No especifica,51
+2300,Masculino,29
+2301,Masculino,31
+2302,No especifica,22
+2303,No especifica,44
+2304,Masculino,27
+2305,Femenino,34
+2306,Masculino,23
+2307,Femenino,30
+2308,No especifica,45
+2309,No especifica,35
+2310,Masculino,47
+2311,No especifica,47
+2312,Masculino,40
+2313,No especifica,25
+2314,No especifica,41
+2315,No especifica,41
+2316,Masculino,18
+2317,Femenino,19
+2318,No especifica,19
+2319,No especifica,59
+2320,Femenino,50
+2321,No especifica,46
+2322,No especifica,19
+2323,Femenino,53
+2324,Femenino,40
+2325,Masculino,26
+2326,Masculino,27
+2327,No especifica,57
+2328,Femenino,28
+2329,Femenino,18
+2330,Femenino,41
+2331,Femenino,22
+2332,Femenino,26
+2333,No especifica,59
+2334,Femenino,19
+2335,Femenino,43
+2336,Masculino,43
+2337,Femenino,33
+2338,Femenino,60
+2339,Femenino,32
+2340,No especifica,37
+2341,Masculino,59
+2342,Masculino,42
+2343,Femenino,54
+2344,Femenino,29
+2345,No especifica,19
+2346,Masculino,57
+2347,Femenino,40
+2348,No especifica,18
+2349,No especifica,51
+2350,Masculino,46
+2351,No especifica,39
+2352,Masculino,18
+2353,Masculino,18
+2354,Femenino,44
+2355,Masculino,28
+2356,Femenino,20
+2357,Femenino,52
+2358,No especifica,21
+2359,No especifica,47
+2360,No especifica,39
+2361,Femenino,55
+2362,No especifica,50
+2363,No especifica,36
+2364,Masculino,43
+2365,No especifica,42
+2366,Masculino,60
+2367,No especifica,35
+2368,No especifica,51
+2369,Masculino,38
+2370,Masculino,59
+2371,Masculino,39
+2372,Femenino,33
+2373,No especifica,44
+2374,No especifica,24
+2375,Masculino,23
+2376,Masculino,20
+2377,No especifica,22
+2378,Masculino,36
+2379,No especifica,47
+2380,Femenino,60
+2381,Masculino,31
+2382,Masculino,26
+2383,No especifica,20
+2384,Femenino,50
+2385,Femenino,41
+2386,No especifica,41
+2387,Femenino,55
+2388,Femenino,56
+2389,Femenino,19
+2390,No especifica,33
+2391,Femenino,60
+2392,Femenino,59
+2393,Masculino,44
+2394,No especifica,23
+2395,Femenino,46
+2396,No especifica,51
+2397,Masculino,27
+2398,No especifica,54
+2399,Femenino,21
+2400,No especifica,48
+2401,Femenino,23
+2402,Masculino,48
+2403,Masculino,57
+2404,Masculino,59
+2405,Masculino,51
+2406,Masculino,31
+2407,Masculino,24
+2408,Masculino,42
+2409,Masculino,43
+2410,Femenino,32
+2411,Masculino,60
+2412,Femenino,22
+2413,Femenino,26
+2414,Masculino,56
+2415,Masculino,22
+2416,Femenino,31
+2417,Masculino,24
+2418,Femenino,31
+2419,Femenino,20
+2420,Femenino,50
+2421,Femenino,55
+2422,No especifica,43
+2423,Masculino,31
+2424,Masculino,47
+2425,No especifica,49
+2426,Femenino,27
+2427,Masculino,46
+2428,Femenino,56
+2429,Femenino,58
+2430,Femenino,40
+2431,Femenino,30
+2432,Masculino,34
+2433,Masculino,54
+2434,No especifica,42
+2435,Masculino,47
+2436,No especifica,36
+2437,No especifica,28
+2438,Femenino,38
+2439,No especifica,54
+2440,Femenino,57
+2441,No especifica,52
+2442,Femenino,51
+2443,No especifica,32
+2444,No especifica,34
+2445,Masculino,36
+2446,Masculino,38
+2447,No especifica,47
+2448,No especifica,59
+2449,No especifica,24
+2450,No especifica,38
+2451,Femenino,47
+2452,Femenino,26
+2453,Masculino,20
+2454,No especifica,41
+2455,Femenino,34
+2456,Masculino,58
+2457,No especifica,50
+2458,Femenino,47
+2459,Masculino,45
+2460,Femenino,24
+2461,Masculino,29
+2462,Femenino,19
+2463,Femenino,57
+2464,Masculino,59
+2465,Masculino,25
+2466,Masculino,60
+2467,Femenino,38
+2468,No especifica,52
+2469,Femenino,35
+2470,Femenino,36
+2471,Masculino,18
+2472,Femenino,39
+2473,Masculino,41
+2474,Femenino,52
+2475,No especifica,25
+2476,Femenino,22
+2477,Masculino,38
+2478,Femenino,27
+2479,Masculino,35
+2480,No especifica,22
+2481,Masculino,60
+2482,No especifica,25
+2483,Femenino,27
+2484,No especifica,24
+2485,Femenino,22
+2486,Masculino,54
+2487,Femenino,59
+2488,No especifica,44
+2489,Femenino,47
+2491,Masculino,39
+2492,Femenino,42
+2493,No especifica,43
+2494,Masculino,51
+2495,No especifica,40
+2496,Femenino,47
+2497,No especifica,41
+2498,Masculino,37
+2499,Masculino,48
+2500,Masculino,41
+2501,No especifica,35
+2502,No especifica,44
+2503,Femenino,39
+2504,No especifica,53
+2505,Femenino,45
+2506,Femenino,39
+2507,Femenino,27
+2508,Femenino,36
+2509,No especifica,56
+2510,Masculino,25
+2511,Femenino,51
+2512,Femenino,27
+2513,Masculino,37
+2514,Masculino,23
+2515,No especifica,43
+2516,No especifica,50
+2517,Masculino,40
+2518,Femenino,54
+2519,Femenino,28
+2520,Femenino,60
+2521,Masculino,32
+2522,Masculino,59
+2523,Femenino,41
+2524,No especifica,24
+2525,Masculino,52
+2526,Femenino,18
+2527,No especifica,57
+2528,Masculino,25
+2529,No especifica,23
+2530,Femenino,54
+2531,Femenino,56
+2532,Femenino,50
+2533,Masculino,41
+2534,Masculino,21
+2535,Femenino,52
+2536,No especifica,48
+2537,Femenino,28
+2538,Femenino,32
+2539,Masculino,58
+2540,Masculino,48
+2541,No especifica,43
+2542,No especifica,37
+2543,Femenino,50
+2544,Masculino,25
+2545,Masculino,26
+2546,No especifica,29
+2547,No especifica,36
+2548,Masculino,55
+2549,Masculino,20
+2550,Femenino,34
+2551,Masculino,40
+2552,No especifica,51
+2553,Masculino,51
+2554,Masculino,27
+2555,Femenino,36
+2556,Masculino,20
+2557,Masculino,24
+2558,Masculino,45
+2559,Masculino,55
+2560,No especifica,38
+2561,Femenino,49
+2562,Femenino,42
+2563,No especifica,29
+2564,Masculino,32
+2565,Masculino,27
+2566,Masculino,52
+2567,Masculino,28
+2568,Femenino,41
+2569,No especifica,58
+2570,No especifica,55
+2571,Masculino,54
+2572,Masculino,42
+2573,No especifica,35
+2574,Masculino,18
+2575,Femenino,40
+2576,Femenino,18
+2577,Femenino,47
+2578,No especifica,57
+2579,Femenino,42
+2580,Masculino,25
+2581,No especifica,22
+2582,No especifica,56
+2583,No especifica,39
+2585,No especifica,46
+2586,No especifica,43
+2587,Masculino,55
+2588,Femenino,22
+2589,Femenino,20
+2590,Femenino,56
+2591,Femenino,39
+2592,Masculino,45
+2593,No especifica,44
+2594,Masculino,47
+2595,Femenino,52
+2596,Masculino,41
+2597,Femenino,55
+2598,Masculino,23
+2599,Femenino,55
+2600,Masculino,54
+2601,Femenino,24
+2602,Masculino,20
+2603,No especifica,34
+2604,Masculino,27
+2605,No especifica,53
+2606,Masculino,31
+2607,Masculino,22
+2608,No especifica,56
+2609,No especifica,40
+2610,Masculino,34
+2611,Femenino,53
+2612,No especifica,49
+2613,Masculino,34
+2614,No especifica,30
+2615,Femenino,46
+2616,No especifica,28
+2617,No especifica,52
+2618,Femenino,35
+2619,No especifica,49
+2620,No especifica,19
+2621,No especifica,54
+2622,Femenino,29
+2623,Masculino,25
+2624,Masculino,43
+2625,Femenino,42
+2626,Masculino,42
+2627,Masculino,45
+2628,No especifica,20
+2629,Femenino,42
+2630,Femenino,55
+2631,Femenino,60
+2632,No especifica,48
+2633,Femenino,33
+2634,No especifica,27
+2635,No especifica,40
+2636,Femenino,20
+2637,No especifica,27
+2638,No especifica,27
+2639,No especifica,46
+2640,No especifica,49
+2641,Masculino,41
+2642,Masculino,27
+2643,Femenino,28
+2644,No especifica,43
+2645,No especifica,57
+2646,Masculino,47
+2647,No especifica,34
+2648,Femenino,32
+2649,Masculino,32
+2650,Masculino,33
+2651,No especifica,26
+2652,No especifica,46
+2653,No especifica,34
+2654,Femenino,51
+2655,Femenino,55
+2656,Femenino,26
+2657,Masculino,43
+2658,Femenino,48
+2659,No especifica,26
+2660,Masculino,40
+2661,No especifica,18
+2662,Masculino,56
+2663,Masculino,32
+2664,No especifica,55
+2665,Femenino,54
+2666,No especifica,59
+2667,Femenino,43
+2668,No especifica,42
+2669,Masculino,29
+2670,Masculino,37
+2671,Masculino,43
+2672,Masculino,56
+2673,Femenino,24
+2674,Masculino,20
+2675,Femenino,48
+2677,No especifica,52
+2678,No especifica,29
+2679,Femenino,54
+2680,No especifica,43
+2681,No especifica,30
+2682,No especifica,54
+2683,No especifica,34
+2684,Femenino,44
+2685,Femenino,58
+2686,Femenino,37
+2687,Masculino,49
+2688,No especifica,18
+2689,Femenino,59
+2690,No especifica,18
+2691,Femenino,50
+2692,No especifica,53
+2693,Masculino,42
+2694,No especifica,57
+2695,Femenino,28
+2696,Femenino,41
+2697,No especifica,40
+2698,Masculino,19
+2699,No especifica,36
+2700,Femenino,23
+2701,Femenino,18
+2702,No especifica,25
+2703,No especifica,34
+2704,Masculino,19
+2705,Masculino,46
+2706,Femenino,36
+2707,No especifica,42
+2708,No especifica,36
+2709,Femenino,27
+2710,No especifica,46
+2711,Masculino,38
+2712,Masculino,47
+2713,Femenino,34
+2714,Masculino,30
+2715,Masculino,43
+2716,No especifica,46
+2717,Masculino,25
+2718,Masculino,34
+2719,Masculino,22
+2720,Masculino,45
+2721,Femenino,32
+2722,Masculino,54
+2723,Masculino,59
+2724,Femenino,54
+2725,Femenino,51
+2726,Masculino,54
+2727,Femenino,43
+2728,No especifica,48
+2729,Femenino,38
+2730,Femenino,28
+2731,No especifica,43
+2732,No especifica,54
+2733,No especifica,46
+2734,Masculino,43
+2735,Femenino,29
+2736,Femenino,37
+2737,Femenino,35
+2738,Masculino,33
+2739,Femenino,34
+2740,Masculino,40
+2741,Masculino,33
+2742,No especifica,44
+2743,Masculino,40
+2744,Femenino,55
+2745,Masculino,29
+2746,Masculino,36
+2747,Masculino,52
+2748,Masculino,20
+2749,Femenino,43
+2750,Masculino,20
+2751,No especifica,42
+2752,Femenino,37
+2753,No especifica,19
+2754,No especifica,36
+2755,No especifica,34
+2756,No especifica,35
+2757,Femenino,31
+2758,No especifica,51
+2759,Femenino,53
+2760,Femenino,55
+2761,Femenino,57
+2762,Masculino,60
+2763,Femenino,36
+2764,Masculino,45
+2765,Femenino,44
+2766,No especifica,42
+2767,No especifica,60
+2768,Femenino,40
+2769,No especifica,34
+2770,Femenino,58
+2771,Masculino,28
+2772,Femenino,30
+2773,No especifica,32
+2774,Masculino,56
+2775,Femenino,23
+2776,Masculino,54
+2777,No especifica,21
+2778,Masculino,33
+2779,Femenino,22
+2780,Femenino,30
+2781,Masculino,60
+2782,Masculino,49
+2783,No especifica,24
+2784,Masculino,51
+2785,Masculino,39
+2786,No especifica,52
+2787,Femenino,39
+2788,No especifica,19
+2789,Masculino,41
+2790,No especifica,28
+2791,Masculino,28
+2792,Femenino,19
+2793,Masculino,54
+2794,Masculino,38
+2795,Femenino,51
+2796,No especifica,48
+2797,Femenino,33
+2798,No especifica,28
+2799,Masculino,45
+2801,Masculino,48
+2802,Masculino,34
+2803,Masculino,51
+2804,Masculino,19
+2805,Femenino,43
+2806,No especifica,25
+2807,Femenino,48
+2808,No especifica,29
+2809,No especifica,36
+2810,Masculino,41
+2811,No especifica,23
+2812,Femenino,36
+2813,Femenino,47
+2814,Femenino,59
+2815,Masculino,59
+2816,Masculino,18
+2817,No especifica,54
+2818,No especifica,35
+2819,No especifica,23
+2820,No especifica,46
+2821,No especifica,21
+2823,No especifica,39
+2824,Masculino,40
+2825,Femenino,40
+2826,No especifica,48
+2827,Masculino,44
+2828,No especifica,43
+2829,Masculino,36
+2830,Masculino,21
+2831,Masculino,47
+2832,No especifica,45
+2833,No especifica,59
+2834,Femenino,37
+2835,No especifica,54
+2836,Femenino,40
+2837,Masculino,50
+2838,Masculino,18
+2839,Femenino,39
+2840,No especifica,30
+2841,No especifica,40
+2842,Masculino,51
+2843,No especifica,23
+2844,Masculino,33
+2845,Femenino,26
+2846,Masculino,27
+2847,Masculino,34
+2848,No especifica,41
+2849,Masculino,58
+2850,Masculino,29
+2851,Masculino,59
+2852,Femenino,29
+2853,Femenino,27
+2854,Femenino,39
+2855,No especifica,50
+2856,Masculino,29
+2857,Masculino,18
+2858,Masculino,18
+2859,Masculino,59
+2860,No especifica,24
+2861,No especifica,27
+2862,Femenino,32
+2863,No especifica,36
+2864,No especifica,21
+2865,No especifica,34
+2866,Femenino,32
+2867,Masculino,56
+2868,No especifica,41
+2869,No especifica,21
+2870,No especifica,50
+2871,Femenino,18
+2872,No especifica,41
+2873,Femenino,33
+2874,Femenino,37
+2875,Femenino,38
+2876,No especifica,27
+2877,Femenino,22
+2878,No especifica,22
+2879,No especifica,23
+2880,No especifica,42
+2881,No especifica,49
+2882,Masculino,55
+2883,Femenino,36
+2884,No especifica,22
+2885,Femenino,25
+2886,Femenino,34
+2887,Masculino,23
+2888,No especifica,58
+2889,No especifica,60
+2890,Femenino,21
+2892,Masculino,48
+2893,Femenino,41
+2894,Masculino,36
+2895,Femenino,37
+2896,Femenino,56
+2897,Masculino,30
+2898,Masculino,32
+2899,Masculino,28
+2900,Femenino,50
+2901,Masculino,45
+2902,Masculino,22
+2903,Masculino,29
+2904,No especifica,38
+2905,Masculino,37
+2906,Masculino,34
+2907,Masculino,51
+2908,Femenino,54
+2909,Femenino,32
+2910,Femenino,21
+2911,Masculino,19
+2912,Masculino,34
+2913,No especifica,29
+2914,No especifica,18
+2915,Femenino,18
+2916,Femenino,18
+2917,Masculino,28
+2918,No especifica,21
+2919,No especifica,44
+2920,No especifica,35
+2921,Masculino,49
+2922,No especifica,40
+2923,Masculino,60
+2924,Masculino,37
+2925,Femenino,44
+2926,Femenino,56
+2927,No especifica,30
+2928,No especifica,50
+2929,Masculino,19
+2930,Femenino,50
+2931,Masculino,21
+2932,No especifica,46
+2933,No especifica,51
+2934,Masculino,24
+2935,Femenino,58
+2936,Masculino,24
+2937,Femenino,24
+2938,Femenino,34
+2939,Masculino,43
+2940,Femenino,38
+2941,Femenino,40
+2942,Masculino,25
+2943,Masculino,50
+2944,No especifica,59
+2945,Femenino,41
+2946,Femenino,35
+2947,Femenino,58
+2948,Femenino,38
+2949,No especifica,33
+2950,Femenino,34
+2951,No especifica,47
+2952,Masculino,20
+2953,Masculino,42
+2954,Masculino,34
+2955,Femenino,24
+2956,No especifica,53
+2957,Masculino,57
+2958,Femenino,51
+2959,No especifica,33
+2960,Femenino,38
+2961,Masculino,26
+2962,No especifica,22
+2963,Masculino,35
+2964,Femenino,55
+2965,Masculino,55
+2966,No especifica,53
+2967,No especifica,28
+2968,Femenino,25
+2969,No especifica,34
+2970,Femenino,20
+2971,Masculino,28
+2972,Femenino,32
+2973,Masculino,35
+2974,Masculino,45
+2975,Femenino,25
+2976,Masculino,35
+2977,No especifica,46
+2978,Masculino,52
+2979,No especifica,36
+2980,Femenino,24
+2981,Masculino,44
+2982,Femenino,21
+2983,No especifica,47
+2984,Femenino,56
+2985,Masculino,53
+2986,Masculino,24
+2987,Masculino,52
+2988,Femenino,28
+2989,Masculino,49
+2990,Femenino,29
+2991,No especifica,32
+2992,Femenino,24
+2993,No especifica,52
+2994,Femenino,42
+2995,No especifica,27
+2996,Masculino,52
+2997,Masculino,52
+2998,Femenino,55
+2999,Femenino,55
+3000,Masculino,52

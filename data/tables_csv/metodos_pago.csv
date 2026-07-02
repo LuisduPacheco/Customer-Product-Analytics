@@ -1,0 +1,6 @@
+metodo,id_metodo_pago
+Efectivo,1
+Transferencia,2
+Tarjeta de crédito,3
+Contra entrega,4
+Tarjeta de débito,5
